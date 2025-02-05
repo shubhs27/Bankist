@@ -3,6 +3,7 @@
 ## Description
 Bankist is a minimalistic banking web application that allows users to perform basic banking operations such as checking their balance, transferring money, and managing transactions with a clean and intuitive UI.
 
+
 ## Features
 - User login authentication using predefined credentials.
 - Display current balance, transaction history, and financial summary.
@@ -17,6 +18,7 @@ Bankist is a minimalistic banking web application that allows users to perform b
 - **JavaScript (ES6+)** for dynamic UI updates and user interactions.
 - **Intl API** for date and currency formatting.
 
+
 ## Installation & Usage
 1. Clone this repository:
    ```sh
@@ -24,6 +26,7 @@ Bankist is a minimalistic banking web application that allows users to perform b
    ```
 2. Open the `index.html` file in your preferred browser.
 3. Log in using predefined credentials (see below).
+
 
 ## Demo Credentials
 Use one of the following credentials to log in:
@@ -33,6 +36,7 @@ Use one of the following credentials to log in:
 | js       | 1111 |
 | ss       | 2222 |
 | rv       | 3333 |
+
 
 ## How to Use
 1. **Log in**: Enter your username and PIN to access the app.
@@ -44,6 +48,7 @@ Use one of the following credentials to log in:
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/5a7be8c4-baa2-4ce5-83a9-7e4b8ca2b6e2)
+
 
 
 ## Future Enhancements
