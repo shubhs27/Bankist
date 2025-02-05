@@ -22,7 +22,7 @@ Bankist is a minimalistic banking web application that allows users to perform b
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/shubhs27/bankist-app.git
+   git clone https://github.com/shubhs27/Bankist.git
    ```
 2. Open the `index.html` file in your preferred browser.
 3. Log in using predefined credentials (see below).
